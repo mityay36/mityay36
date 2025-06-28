@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://career.habr.com/04pyatka" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
+  <img src="https://img.shields.io/static/v1?message=Habr%20Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
 </a>
 
 <a href="https://linkedin.com/in/dmitry-pokrovskiy-a54960279" target="_blank">

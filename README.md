@@ -1,4 +1,4 @@
-<h1 align="center">👋Dmitry Pokrovsky, 22, DevOps @ SBER </h1>
+<h1 align="center">👋Dmitry Pokrovsky, 22, DevOps @ RWB </h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mityay36.mityay36&"  />
